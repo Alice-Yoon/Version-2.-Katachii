@@ -10,8 +10,6 @@ Description about Katachii Frontend Version 2.
 
 ### Mobile:
 
-https://youtu.be/O_nE4jP34H0
-
 [<img src="https://img.youtube.com/vi/O_nE4jP34H0/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/O_nE4jP34H0)
 
@@ -19,11 +17,17 @@ https://youtu.be/O_nE4jP34H0
 
 https://youtu.be/hpHpoA0m6mQ
 
+[<img src="https://img.youtube.com/vi/hpHpoA0m6mQ/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/hpHpoA0m6mQ)
+
 ## Key Features.
 
 - **Register/find password with email verification (using node-mailer)**
     
     https://youtube.com/shorts/h3jAhAf5PtU?feature=share
+
+  [<img src="https://img.youtube.com/vi/h3jAhAf5PtU/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/h3jAhAf5PtU)
     
 - **Search posts by title, writer's nickname, and comment contents**
     
