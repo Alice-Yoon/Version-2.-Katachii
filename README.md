@@ -74,15 +74,12 @@ Description about Katachii Frontend Version 2.
     - **Purchase Page:**
         - [ Version 1 ]
             
-            ![8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/531babd3-e537-4b79-b5ac-daf808019c58/8.png)
-            
+          
+          <img width="240" alt="스크린샷 2023-07-31 오후 12 06 36" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/fe1b3110-6a4b-416b-8c28-c4455af5c438">
+
         - [ Version 2 ] - By dividing the overall payment process into 'Customer Information,' 'Order Details,' and 'Payment,' users can now complete their orders more conveniently and intuitively.
-            
-            ![스크린샷 2023-07-31 오전 7.34.01.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea6688b8-55e3-43b2-a677-31374df8ef66/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_7.34.01.png)
-            
-            ![스크린샷 2023-07-31 오전 7.34.34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2c24f42-936b-42c9-be44-0f1e0cef584e/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_7.34.34.png)
-            
-            ![스크린샷 2023-07-31 오전 7.34.52.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e080c3a9-d7dc-4e6b-8a0d-156db19984e2/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_7.34.52.png)
+
+          <img width="106" alt="스크린샷 2023-07-31 오후 12 07 17" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/a42f3cfb-f712-4315-a1f8-edd98475dec2">
             
     
     - **My Page:**
