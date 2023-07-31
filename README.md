@@ -40,6 +40,10 @@ Description about Katachii Frontend Version 2.
 [<img src="https://img.youtube.com/vi/g6Z6DobrOVA/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/g6Z6DobrOVA)
 
+<br/>
+
+-----
+
 ## Improvements in Ver 02.
 
 **[FE] Enhanced the overall UI/UX for better intuitiveness.**
@@ -312,6 +316,10 @@ Description about Katachii Frontend Version 2.
       )
     ```
     
+
+<br/>
+
+-----
 
 ## Improvements in Ver 03.
 
