@@ -85,18 +85,14 @@ Description about Katachii Frontend Version 2.
     - **My Page:**
         - [ Version 1 ] - there weren’t many functionalities in my page previously. Users could only see the list of their orders and brief indicators for delivery status.
             
-            ![12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5291bdd5-20c8-44db-80bd-e461bb43d803/12.png)
-            
+            <img width="332" alt="스크린샷 2023-07-31 오후 12 07 57" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/cd0764a0-f9bc-4ffd-971b-d25dedfcfdc1">
+
         - [ Version 2 ] - now the users can do a lot more in their my page.
             - 1) Users can change their password.
             - 2) Users can save up to 3 addresses so that they can simply choose from the address list during the purchase process instead of having to fill it out all over again every time they place an order.
             - 3) Users can now see the orders they have made with greater clarity.
-            
-            ![스크린샷 2023-07-31 오전 7.38.24.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec5338f6-caf9-4057-993e-02edb35e8e23/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_7.38.24.png)
-            
-            ![스크린샷 2023-07-31 오전 7.38.50.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21a5f586-5375-4f57-9d46-a34c7a583197/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_7.38.50.png)
-            
-            ![스크린샷 2023-07-31 오전 7.39.09.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c06f4ff-e405-48ce-baf9-2d6190aaa40b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_7.39.09.png)
+                 
+            <img width="119" alt="스크린샷 2023-07-31 오후 12 08 22" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/984a4f9a-ddaa-4832-a457-a7829b27a8e9">
             
 
 **[BE] Improved code maintainability by..** 
