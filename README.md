@@ -63,15 +63,12 @@ Description about Katachii Frontend Version 2.
     - **Product Page:**
         - [ Version 1 ] - users had to scroll all the way down to the bottom in the product details page in order to find the CTA button for adding to cart or proceeding to purchase.
             
-            ![4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb9338c4-6e98-4d34-b6a7-3a3988406ba1/4.png)
-            
-            ![5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71f19eca-1daa-40cc-b402-699b9ae069d4/5.png)
+          <img width="239" alt="스크린샷 2023-07-31 오후 12 03 20" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/8b48b794-51c3-4df3-b2b6-a597d56cde5d">
+
             
         - [ Version 2 ] - After finding out that the majority of users to our service were using mobile, I had the CTA buttons stick on the bottom of the screen all the time in product details page and added bottom sheet for mobile to easily add to cart or proceed to purchase.
-            
-            ![스크린샷 2023-07-31 오전 6.23.21.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e27c6710-0eaa-42eb-a642-cad56887be2f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_6.23.21.png)
-            
-            ![스크린샷 2023-07-31 오전 6.23.41.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7209dd8a-a4f6-4610-b42d-cc8a059ee5aa/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_6.23.41.png)
+     
+            <img width="144" alt="스크린샷 2023-07-31 오후 12 04 26" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/786bcb41-baa5-4cf2-a493-45c905dd4bf2">
             
     
     - **Purchase Page:**
