@@ -52,16 +52,13 @@ Description about Katachii Frontend Version 2.
 - **Improvements in details:**
     - **Landing Page:**
         - [ Version 1 ] - When users first entered the landing page, they had to scroll down to see the product list. The landing page of version 1 was not intuitive enough, causing many users confusion of not knowing how to access the product list.
-            
-            ![1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f8e4298-1c10-40fa-baff-58992d6fcfcc/1.png)
-            
-            ![2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da527ed5-40fa-47db-bfeb-53bc71fb8de2/2.png)
+          
+            <img width="238" alt="스크린샷 2023-07-31 오후 12 00 20" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/614cc143-9813-4f8f-a7a0-ae7d5a522a9b">
+
             
         - [ Version 2 ] - the landing page has become intuitive by applying a hamburger menu for mobile screen and a side bar menu for pc screen.
             
-            ![스크린샷 2023-07-31 오전 6.06.24.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b20af0a-6bce-4905-ab96-38892e9a4445/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_6.06.24.png)
-            
-            ![스크린샷 2023-07-31 오전 6.06.56.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74139ac5-47ba-45a9-95e8-25c76cf388d7/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_6.06.56.png)
+            <img width="311" alt="스크린샷 2023-07-31 오후 12 00 53" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/66c823e4-5b56-4021-93c1-4df20a051bdb">
             
     - **Product Page:**
         - [ Version 1 ] - users had to scroll all the way down to the bottom in the product details page in order to find the CTA button for adding to cart or proceeding to purchase.
