@@ -46,7 +46,7 @@ Description about Katachii Frontend Version 2.
 
 ## Improvements in Ver 02.
 
-**[FE] Enhanced the overall UI/UX for better intuitiveness.**
+### [FE] Enhanced the overall UI/UX for better intuitiveness.
 
 - Overview of Version 01:
     
@@ -99,7 +99,7 @@ Description about Katachii Frontend Version 2.
             <img width="119" alt="스크린샷 2023-07-31 오후 12 08 22" src="https://github.com/Alice-Yoon/Version-2.-Katachii/assets/53468065/984a4f9a-ddaa-4832-a457-a7829b27a8e9">
             
 
-**[BE] Improved code maintainability by..** 
+### [BE] Improved code maintainability by..
 
 1) Applying Restful API
 
@@ -176,7 +176,7 @@ Description about Katachii Frontend Version 2.
     ```
     
 
-**[BE] Increased code reusability and eliminated duplicate code by implementing middlewares.**
+### [BE] Increased code reusability and eliminated duplicate code by implementing middlewares.
 
 - open to see the code
     
@@ -323,21 +323,21 @@ Description about Katachii Frontend Version 2.
 
 ## Improvements in Ver 03.
 
-**[FE] Established a Design System to enhance design consistency and productivity.**
+### [FE] Established a Design System to enhance design consistency and productivity.
 
 - open to see the code
     
     To Be Continued…
     
 
-**[FE]** **Maximized reusability by implementing Compound Component and improved user convenience by keeping common areas of the component fixed.**
+### [FE] Maximized reusability by implementing Compound Component and improved user convenience by keeping common areas of the component fixed.
 
 - open to see the code
     
     To Be Continued…
     
 
-**[FE] Increased code abstraction and reusability by utilizing Custom Hooks.**
+### [FE] Increased code abstraction and reusability by utilizing Custom Hooks.
 
 - open to see the code
     
