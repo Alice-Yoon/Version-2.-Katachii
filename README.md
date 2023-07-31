@@ -10,13 +10,11 @@ Description about Katachii Frontend Version 2.
 
 ### Mobile:
 
-https://youtu.be/23tY3lR6LMs
 [<img src="https://img.youtube.com/vi/23tY3lR6LMs/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/23tY3lR6LMs)
 
 ### PC:
 
-https://youtu.be/e49wtjRZMfs
 [<img src="https://img.youtube.com/vi/e49wtjRZMfs/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/e49wtjRZMfs)
 
@@ -24,25 +22,21 @@ https://youtu.be/e49wtjRZMfs
 
 - **register & login**
     
-    https://youtube.com/shorts/ZUm74YLlPYg?feature=share
 [<img src="https://img.youtube.com/vi/ZUm74YLlPYg/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/ZUm74YLlPYg)
 
 - **Product details & Adding to cart**
     
-    https://youtube.com/shorts/E9k46ehkUfw?feature=share
 [<img src="https://img.youtube.com/vi/E9k46ehkUfw/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/E9k46ehkUfw)
 
 - **Purchasing the product**
     
-    https://youtube.com/shorts/zEoGBrzy0pc?feature=share
 [<img src="https://img.youtube.com/vi/zEoGBrzy0pc/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/zEoGBrzy0pc)
 
 - **My Page**
     
-    https://youtube.com/shorts/g6Z6DobrOVA?feature=share
 [<img src="https://img.youtube.com/vi/g6Z6DobrOVA/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/g6Z6DobrOVA)
 
@@ -52,7 +46,6 @@ https://youtu.be/e49wtjRZMfs
 
 - Overview of Version 01:
     
-    https://youtu.be/pdMzjuVnB4E
 [<img src="https://img.youtube.com/vi/pdMzjuVnB4E/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/pdMzjuVnB4E)
 
