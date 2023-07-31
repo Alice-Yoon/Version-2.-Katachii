@@ -46,8 +46,8 @@ Description about Katachii Frontend Version 2.
 - **Sending direct messages between users**
     
     https://youtube.com/shorts/ysvKq4QJhWc?feature=share
-  [<img src="https://img.youtube.com/vi/<ysvKq4QJhWc>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<ysvKq4QJhWc>)
+  [<img src="https://img.youtube.com/vi/ysvKq4QJhWc/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/ysvKq4QJhWc)
     
 - **Getting notifications when getting comments on the post**
     
